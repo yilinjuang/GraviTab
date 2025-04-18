@@ -9,6 +9,8 @@ Transform your browser's new tab page into a stunning 3D black hole visualizatio
 - [Chrome Web Store]()
 - [Firefox Add-ons]()
 
+> **Note:** Ensure that hardware acceleration is enabled in your browser settings to fully experience the 3D visualization, as it relies on WebGL.
+
 ## Gallery
 
 ![gallery1](https://github.com/user-attachments/assets/ca448ea2-c8cd-436e-aa16-559dce7c9e8e)
