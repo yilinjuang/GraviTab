@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Black Hole",
+  "version": "1.0.0",
+  "description": "Experience a beautiful 3D black hole visualization in your new tab",
+  "author": "Black Hole",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{b2c600a9-3fb4-4790-ae77-d7f2edd7fc59}"
+    }
+  }
+}
