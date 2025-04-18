@@ -2,7 +2,7 @@
 
 ![GraviTab](icons/icon128.png)
 
-Transform your browser's new tab page into a stunning 3D black hole visualizationl, creating a moment of cosmic wonder every time you open a new tab.
+Transform your browser's new tab page into a stunning 3D black hole visualization, creating a moment of cosmic wonder every time you open a new tab.
 
 ## Installation
 
