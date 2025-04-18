@@ -2,9 +2,9 @@
 
 set -e
 
-echo "Building Black Hole Extension..."
+echo "Building GraviTab Extension..."
 
-zip -r black-hole.zip \
+zip -r gravitab.zip \
     manifest.json \
     index.html \
     index.js \
@@ -12,4 +12,4 @@ zip -r black-hole.zip \
     icons/ \
     README.md
 
-echo "Done! Extension package created: black-hole.zip"
+echo "Done! Extension package created: gravitab.zip"
