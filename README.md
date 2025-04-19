@@ -6,8 +6,7 @@ Transform your browser's new tab page into a stunning 3D black hole visualizatio
 
 ## Installation
 
-- [Chrome Web Store]()
-- [Firefox Add-ons]()
+[Chrome Web Store](https://chromewebstore.google.com/detail/gravitab/jihnknnhieolpgdpoifljmmlealcndip)
 
 > **Note:** Ensure that hardware acceleration is enabled in your browser settings to fully experience the 3D visualization, as it relies on WebGL.
 
